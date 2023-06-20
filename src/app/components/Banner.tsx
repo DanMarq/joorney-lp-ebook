@@ -16,8 +16,8 @@ export default function Banner() {
                             {title}
                             </h1>
                             {/* <p className="text-white text-lg mb-10 xl:pr-18 2xl:pr-120"></p> */}
-                            <a href="" className="main-btn white-bg border-btn btn-hover mb-2">Get Started</a>
-                            <a href="#features" className="scroll-bottom">
+                            <a href="#buy" className="main-btn white-bg border-btn btn-hover mb-2">Eu quero agora!</a>
+                            <a href="#services" className="scroll-bottom">
                                     <BsArrowDown />
                             </a>
                         </div>
