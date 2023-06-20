@@ -11,7 +11,7 @@ export default function Banner() {
             <div className="container">
                 <div className="row flex relative">
                     <div className="w-full lg:w-1/2">
-                        <div className="hero-content pt-100 mb-0 lg:mb-6">
+                        <div className="hero-content mb-0 lg:mb-6">
                             <h1 className="text-white font-bold mb-9 text-4xl sm:text-5xl md:text-6xl lg:text-5xl xl:text-5xl 2xl:text-6xl">
                             {title}
                             </h1>
